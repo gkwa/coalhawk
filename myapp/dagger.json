@@ -1,0 +1,12 @@
+{
+  "name": "myapp",
+  "engineVersion": "v0.15.1",
+  "sdk": "go",
+  "dependencies": [
+    {
+      "name": "coalhawk",
+      "source": "../."
+    }
+  ],
+  "source": "dagger"
+}
